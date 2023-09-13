@@ -4,8 +4,8 @@
     "keywords": ["laravel", "docker"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/sail/issues",
-        "source": "https://github.com/laravel/sail"
+        "issues": "https://github.com/summonshr/sail/issues",
+        "source": "https://github.com/summonshr/sail"
     },
     "authors": [
         {
